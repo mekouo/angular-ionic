@@ -1,0 +1,7 @@
+{
+  "name": "Nianc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
